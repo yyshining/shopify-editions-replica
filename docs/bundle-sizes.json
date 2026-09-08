@@ -1,0 +1,67 @@
+[
+  {
+    "file": "_next/static/chunks/SceneStage-DuDS6ib9.js",
+    "bytes": 1084940,
+    "gzipBytes": 302704
+  },
+  {
+    "file": "_next/static/chunks/Pulse-CtrPD5Qs.js",
+    "bytes": 220034,
+    "gzipBytes": 60370
+  },
+  {
+    "file": "_next/static/chunks/index-Bs87Cbj3.js",
+    "bytes": 192304,
+    "gzipBytes": 55579
+  },
+  {
+    "file": "_next/static/chunks/framework-BVgzrtAD.js",
+    "bytes": 190154,
+    "gzipBytes": 58939
+  },
+  {
+    "file": "decoders/draco/draco_wasm_wrapper.js",
+    "bytes": 58456,
+    "gzipBytes": 11612
+  },
+  {
+    "file": "decoders/basis/basis_transcoder.js",
+    "bytes": 57529,
+    "gzipBytes": 15063
+  },
+  {
+    "file": "_next/static/chunks/page-DCz1phh8.js",
+    "bytes": 30768,
+    "gzipBytes": 9526
+  },
+  {
+    "file": "_next/static/chunks/app-route-prefetch-policy-79xkEnNv.js",
+    "bytes": 937,
+    "gzipBytes": 488
+  },
+  {
+    "file": "_next/static/chunks/streamed-icons-Dj-A4dvD.js",
+    "bytes": 772,
+    "gzipBytes": 488
+  },
+  {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "bytes": 694,
+    "gzipBytes": 423
+  },
+  {
+    "file": "_next/static/chunks/layout-segment-context-MRFEJCwE.js",
+    "bytes": 494,
+    "gzipBytes": 342
+  },
+  {
+    "file": "_next/static/c4e7811f-451c-4a69-b9bc-f9fee0945070/_buildManifest.js",
+    "bytes": 159,
+    "gzipBytes": 121
+  },
+  {
+    "file": "_next/static/c4e7811f-451c-4a69-b9bc-f9fee0945070/_ssgManifest.js",
+    "bytes": 76,
+    "gzipBytes": 60
+  }
+]

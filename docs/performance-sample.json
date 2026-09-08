@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-08",
+  "source": "Local production Worker / Codex Chromium; unthrottled warm local assets; startup plus scroll, not isolated GPU timing",
+  "frames": 1200,
+  "p50": 8.300000000000182,
+  "p95": 9.200000000000728,
+  "max": 24.099999999999994,
+  "longTasks": 0,
+  "viewport": [
+    1280,
+    720
+  ],
+  "dpr": 1,
+  "mode": "production"
+}

@@ -1,0 +1,262 @@
+{
+  "cardType": "xxl",
+  "headlineTitle": "Smart suggestions",
+  "numberOfColumns": 12,
+  "hideTitle": true,
+  "eyebrow": "Smart suggestions",
+  "xxlCardRegistryHandle": "sidekick-pulse",
+  "id": "gid://shopify/Product/10063520268570",
+  "handle": "sidekick-pulse",
+  "title": "Sidekick Pulse",
+  "descriptionHtml": "<p>Sidekick Pulse delivers personalized recommendations and next steps for your business using market trends and data from your store.</p>",
+  "ctas": [
+    {
+      "title": "Read help doc",
+      "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance#pulse",
+      "ariaLabel": null
+    }
+  ],
+  "productMedia": {
+    "rive": {
+      "artboard": "digestMain",
+      "aspectRatio": "1016:529",
+      "description": "An array of several tips with vibrant illustrations come together. Abstract illustration suggests that admin data is being pulled together to form one specific suggestion regarding converting customers in the new year.",
+      "fallbackImage": {
+        "altText": "",
+        "height": 1977,
+        "id": "gid://shopify/ImageSource/44135903756570",
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/U20_Pulse_desktop-fallback.png?v=1765315779",
+        "width": 3492
+      },
+      "fallbackImageMobile": {
+        "altText": "",
+        "height": 1704,
+        "id": "gid://shopify/ImageSource/44135905591578",
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/U20_Pulse_mobile-fallback.png?v=1765315816",
+        "width": 1110
+      },
+      "fonts": [
+        {
+          "id": "gid://shopify/GenericFile/43569841996058",
+          "mimeType": "text/plain",
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1787916463"
+        }
+      ],
+      "fullBleedOnMobile": true,
+      "interactive": false,
+      "mobileAspectRatio": "345:529",
+      "posterImage": {
+        "image": {
+          "altText": "",
+          "height": 1058,
+          "id": "gid://shopify/ImageSource/44138728325402",
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-pulseDesktopPoster-desktop.webp?v=1765345989",
+          "width": 2032
+        }
+      },
+      "source": {
+        "id": "gid://shopify/GenericFile/44138725835034",
+        "mimeType": "application/octet-stream",
+        "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/pulse_12_10.riv?v=1787919821"
+      },
+      "stateMachines": "State Machine 1",
+      "textRunMap": {
+        "digestMain/rivePulseTextRun1": "Unfulfilled",
+        "digestMain/rivePulseTextRun2": "$189,657.98",
+        "digestMain/rivePulseTextRun3": "Total sales",
+        "digestMain/rivePulseTextRun4": "Pulse",
+        "digestMain/rivePulseTextRun5": "New",
+        "digestMain/rivePulseTextRun6": "New year momentum: convert, bundle, and scale",
+        "digestMain/rivePulseTextRun7": "Explore your Pulse",
+        "digestMain/rivePulseTextRun8": "Paid",
+        "digestMain/rivePulseTextRun9": "New",
+        "digestMain/rivePulseTextRun10": "Pulse",
+        "digestMain/rivePulseTextRun11": "From foot traffic to omnichannel growth",
+        "digestMain/rivePulseTextRun12": "Explore your Pulse",
+        "digestMain/rivePulseTextRun13": "New",
+        "digestMain/rivePulseTextRun14": "Pulse",
+        "digestMain/rivePulseTextRun15": "Grow AOV and bring buyers back",
+        "digestMain/rivePulseTextRun16": "Explore your Pulse",
+        "digestMain/rivePulseTextRun17": "New",
+        "digestMain/rivePulseTextRun18": "Pulse",
+        "digestMain/rivePulseTextRun19": "Own the spring cleaning rush",
+        "digestMain/rivePulseTextRun20": "Explore your Pulse",
+        "digestMain/rivePulseTextRun21": "New",
+        "digestMain/rivePulseTextRun22": "Pulse",
+        "digestMain/rivePulseTextRun23": "Fix stockouts, unlock smarter growth",
+        "digestMain/rivePulseTextRun24": "Explore your Pulse",
+        "digestMain/rivePulseTextRun25": "New",
+        "digestMain/rivePulseTextRun26": "Pulse",
+        "digestMain/rivePulseTextRun27": "Restock, retain, and raise the value of every order",
+        "digestMain/rivePulseTextRun28": "Explore your Pulse",
+        "pulseDesktop/rivePulseTextRun29": "Search",
+        "pulseDesktop/rivePulseTextRun30": "MVSE",
+        "pulseDesktop/rivePulseTextRun31": "Home",
+        "pulseDesktop/rivePulseTextRun32": "Orders",
+        "pulseDesktop/rivePulseTextRun33": "Products",
+        "pulseDesktop/rivePulseTextRun34": "Customers",
+        "pulseDesktop/rivePulseTextRun35": "Marketing",
+        "pulseDesktop/rivePulseTextRun36": "Discounts",
+        "pulseDesktop/rivePulseTextRun37": "Content",
+        "pulseDesktop/rivePulseTextRun38": "Markets",
+        "pulseDesktop/rivePulseTextRun39": "Finances",
+        "pulseDesktop/rivePulseTextRun40": "Analytics",
+        "pulseDesktop/rivePulseTextRun41": "Online Store",
+        "pulseDesktop/rivePulseTextRun42": "Point of Sale",
+        "pulseDesktop/rivePulseTextRun43": "Shop",
+        "pulseDesktop/rivePulseTextRun44": "Pulse: New year momentum",
+        "pulseDesktop/rivePulseTextRun45": "Build staff onboarding app",
+        "pulseDesktop/rivePulseTextRun46": "Discounts for email campaign",
+        "pulseDesktop/rivePulseTextRun47": "Settings",
+        "pulseDesktop/rivePulseTextRun48": "Pulse",
+        "pulseDesktop/rivePulseTextRun49": "3 next actions",
+        "pulseDesktop/rivePulseTextRun50": "New year momentum: convert, bundle, and scale",
+        "pulseDesktop/rivePulseTextRun51": "Week of Dec 10",
+        "pulseDesktop/rivePulseTextRun52": "A/B test a free shipping threshold to lift average order value",
+        "pulseDesktop/rivePulseTextRun53": "Your discounted orders already outperform full-price, showing that customers respond to incentives. With a 65.2% margin, you could test a free shipping threshold to raise AOV, without a major hit to shipping costs. Consider A/B testing a $175 threshold for 2–4 weeks and adding cart messaging like \"Add $X more for free shipping.\"",
+        "pulseDesktop/rivePulseTextRun54": "Test free shipping threshold",
+        "pulseDesktop/rivePulseTextRun55": "Set up abandoned cart emails to recover lost sales",
+        "pulseDesktop/rivePulseTextRun56": "Your store sees 257 shoppers reach checkout each month, but only about half finish their purchase, leaving many carts behind. Automating abandoned cart emails can help you win back these lost orders, with industry stats showing 10–20% of shopper return to complete their purchase when prompted. Setting up a follow-up email series is an effective way to turn missed opportunities into extra revenue each month.",
+        "pulseDesktop/rivePulseTextRun57": "Build cart recovery strategy",
+        "pulseDesktop/rivePulseTextRun58": "Launch a new year campaign targeting your clothing bestsellers to boost seasonal revenue",
+        "pulseDesktop/rivePulseTextRun59": "Hearthside Hoodies did $487k in organic sales in 90 days. Consider launching a 25% off \"Hoodie Season\" promo with 15% off hoodie + beanie bundles, gift card offers, segmented emails, and refreshed copy focused on gifting and winter layering.",
+        "pulseDesktop/rivePulseTextRun61": "Build new year campaign now",
+        "pulseMobile/rivePulseTextRun62": "Search",
+        "pulseMobile/rivePulseTextRun63": "MVSE",
+        "pulseMobile/rivePulseTextRun64": "3 next actions",
+        "pulseMobile/rivePulseTextRun65": "New year momentum: convert, bundle, and scale",
+        "pulseMobile/rivePulseTextRun66": "Week of Dec 10",
+        "pulseMobile/rivePulseTextRun67": "A/B test a free shipping threshold to lift average order value",
+        "pulseMobile/rivePulseTextRun68": "Your discounted orders already outperform full-price, showing that customers respond to incentives. With a 65.2% margin, you could test a free shipping threshold to raise AOV, without a major hit to shipping costs. Consider A/B testing a $175 threshold for 2–4 weeks and adding cart messaging like \"Add $X more for free shipping.\"",
+        "pulseMobile/rivePulseTextRun69": "Test free shipping threshold",
+        "pulseMobile/rivePulseTextRun70": "Set up abandoned cart emails to recover lost sales",
+        "pulseMobile/rivePulseTextRun71": "Your store sees 257 shoppers reach checkout each month, but only about half finish their purchase, leaving many carts behind. Automating abandoned cart emails can help you win back these lost orders, with industry stats showing 10–20% of shopper return to complete their purchase when prompted. Setting up a follow-up email series is an effective way to turn missed opportunities into extra revenue each month.",
+        "pulseMobile/rivePulseTextRun72": "Build cart recovery strategy",
+        "pulseMobile/rivePulseTextRun73": "Launch a new year campaign targeting your clothing bestsellers to boost seasonal revenue",
+        "pulseMobile/rivePulseTextRun74": "Hearthside Hoodies did $487k in organic sales in 90 days. Consider launching a 25% off \"Hoodie Season\" promo with 15% off hoodie + beanie bundles, gift card offers, segmented emails, and refreshed copy focused on gifting and winter layering.",
+        "pulseMobile/rivePulseTextRun75": "Build new year campaign now",
+        "pulseDesktop/rivePulseTextRun76": "Run an A/B test to drive increased basket sizes while protecting your 65% gross margin.",
+        "pulseDesktop/rivePulseTextRun77": "Set up reminder emails with segmented messaging to recover abandoned checkouts.",
+        "pulseDesktop/rivePulseTextRun78": "Create a promo bundle, gift card offers, and segmented emails to capture more seasonal revenue.",
+        "pulseMobile/rivePulseTextRun79": "Run an A/B test to drive increased basket sizes while protecting your 65% gross margin.",
+        "pulseMobile/rivePulseTextRun80": "Set up reminder emails with segmented messaging to recover abandoned checkouts.",
+        "pulseMobile/rivePulseTextRun81": "Create a promo bundle, gift card offers, and segmented emails to capture more seasonal revenue."
+      },
+      "viewModelName": "View Model 1",
+      "posterImageMobile": null,
+      "assetsMap": {
+        "rive_digest_1-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_1-desktop.webp?v=1763060510",
+          "image": null
+        },
+        "rive_digest_1-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_1-mobile.webp?v=1763060509",
+          "image": null
+        },
+        "rive_digest_2-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_2-desktop.webp?v=1763060510",
+          "image": null
+        },
+        "rive_digest_2-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_2-mobile.webp?v=1763060509",
+          "image": null
+        },
+        "rive_digest_3-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_3-desktop.webp?v=1763060510",
+          "image": null
+        },
+        "rive_digest_3-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_3-mobile.webp?v=1763060509",
+          "image": null
+        },
+        "rive_digest_4-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_4-desktop.webp?v=1763060510",
+          "image": null
+        },
+        "rive_digest_4-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_4-mobile.webp?v=1763060510",
+          "image": null
+        },
+        "rive_digest_5-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_5-desktop.webp?v=1764264158",
+          "image": null
+        },
+        "rive_digest_5-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_5-mobile.webp?v=1764264163",
+          "image": null
+        },
+        "rive_digest_6-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_6-desktop.webp?v=1764264176",
+          "image": null
+        },
+        "rive_digest_6-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_6-mobile.webp?v=1764264181",
+          "image": null
+        },
+        "rive_digest_7-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_7-desktop.webp?v=1764264198",
+          "image": null
+        },
+        "rive_digest_7-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_7-mobile.webp?v=1764264204",
+          "image": null
+        },
+        "rive_digest_8-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_8-desktop.webp?v=1764264238",
+          "image": null
+        },
+        "rive_digest_8-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_8-mobile.webp?v=1764264231",
+          "image": null
+        },
+        "rive_digest_9-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_9-desktop.webp?v=1764264264",
+          "image": null
+        },
+        "rive_digest_9-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_9-mobile.webp?v=1764264268",
+          "image": null
+        },
+        "sidekick_digest_1-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/sidekick_digest_1-desktop.webp?v=1764264300",
+          "image": null
+        },
+        "sidekick_digest_1-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/sidekick_digest_1-mobile.webp?v=1764264306",
+          "image": null
+        },
+        "rive_digest_10-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_10-desktop.webp?v=1764264425",
+          "image": null
+        },
+        "rive_digest_10-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_10-mobile.webp?v=1764264425",
+          "image": null
+        },
+        "rive_digest_11-desktop": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_11-desktop.webp?v=1764264425",
+          "image": null
+        },
+        "rive_digest_11-mobile": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_11-mobile.webp?v=1764264425",
+          "image": null
+        },
+        "inter": {
+          "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Inter.txt?v=1787916463",
+          "font": null,
+          "isFont": true
+        }
+      },
+      "src": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/pulse_12_10.riv?v=1787919821",
+      "globalRiveEnabled": "enabled"
+    }
+  },
+  "backgroundImage": null,
+  "imageSizes": "(min-width: 940px) 80vw, (min-width: 768px) 100vw, 100vw",
+  "srcSetOptions": {
+    "intervals": 8,
+    "startingWidth": 300,
+    "incrementSize": 200,
+    "placeholderWidth": 100
+  }
+}

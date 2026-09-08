@@ -1,0 +1,264 @@
+[
+  {
+    "id": "hero-theatre.json",
+    "section": "hero",
+    "role": "backgroundAnimation",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/HeroScene.theatre-project-state_15.json?v=1787919811",
+    "path": "/assets/hero-theatre.json",
+    "bytes": 50279,
+    "sha256": "2f500579b87384b69ec22e967afe47eca88af84fb24d302ca8e8d70e7725fa76",
+    "status": "JSON parsed",
+    "rights": "Shopify reference asset; research use, publication rights not established",
+    "keys": [
+      "sheetsById",
+      "definitionVersion",
+      "revisionHistory"
+    ]
+  },
+  {
+    "id": "hero-desktop.jpg",
+    "section": "hero",
+    "role": "fallbackImage",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/herofallback.jpg?v=1764633806",
+    "path": "/assets/hero-desktop.jpg",
+    "bytes": 780457,
+    "sha256": "f70be36d951fb3642ab8f90721f9ea8af0d4fe1c81a9282e75abd1620826f4a4",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "hero-mobile.jpg",
+    "section": "hero",
+    "role": "fallbackImageMobile",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/portrait-hero-test-fallback.jpg?v=1765215576",
+    "path": "/assets/hero-mobile.jpg",
+    "bytes": 369153,
+    "sha256": "787cc2ed44747e876a92d998173979f6c08b42617aa012585c603b2a5eb2a785",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "hero-desktop.ktx2",
+    "section": "hero",
+    "role": "fallbackImageOptimized",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Hero_desktop.ktx2?v=1787919785",
+    "path": "/assets/hero-desktop.ktx2",
+    "bytes": 225983,
+    "sha256": "aeb27986cd473689453ffcb81d66e009d6b34046bdeef07113c0dfd4cbe6d3be",
+    "status": "KTX2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "hero-mobile.ktx2",
+    "section": "hero",
+    "role": "fallbackImageMobileOptimized",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Hero_2x.ktx2?v=1787919788",
+    "path": "/assets/hero-mobile.ktx2",
+    "bytes": 144273,
+    "sha256": "02d2963e4d414384c34e674813440b86512b43406f28e511e3499609059d8d78",
+    "status": "KTX2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "hero-model.glb",
+    "section": "hero",
+    "role": "backgroundAssets",
+    "sourceUrl": "https://editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/843b7bb45340b0c3/EW26_Hero_251207v3_compressed-optimized.glb",
+    "path": "/assets/hero-model.glb",
+    "bytes": 1080492,
+    "sha256": "8327666e89e89ad28e33ec35f382e4d3a1c01b5a0942225215ade1e0ca73fb8e",
+    "status": "GLB header and JSON parsed",
+    "rights": "Shopify reference asset; research use, publication rights not established",
+    "nodes": 194,
+    "extensions": [
+      "KHR_draco_mesh_compression",
+      "KHR_texture_basisu"
+    ]
+  },
+  {
+    "id": "hero-background.ktx2",
+    "section": "hero",
+    "role": "backgroundAssets",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Hero-bg-hires-optimized.ktx2?v=1787919794",
+    "path": "/assets/hero-background.ktx2",
+    "bytes": 265821,
+    "sha256": "76e69d61c30fd18da7be829e1b404ef1a08bb9d474a2f1b4cd794ff114036c58",
+    "status": "KTX2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-theatre.json",
+    "section": "sidekick",
+    "role": "backgroundAnimation",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/SidekickScene.theatre-project-state_14_910d17ff-f5fb-4da0-920e-1b66f8d229b3.json?v=1787919817",
+    "path": "/assets/sidekick-theatre.json",
+    "bytes": 52459,
+    "sha256": "51b60f6d3744ea11ee8663d53c662a14adf240a217524e51450625aa77dc778a",
+    "status": "JSON parsed",
+    "rights": "Shopify reference asset; research use, publication rights not established",
+    "keys": [
+      "sheetsById",
+      "definitionVersion",
+      "revisionHistory"
+    ]
+  },
+  {
+    "id": "sidekick-desktop.jpg",
+    "section": "sidekick",
+    "role": "fallbackImage",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Sidekick_Fallback.jpg?v=1764645877",
+    "path": "/assets/sidekick-desktop.jpg",
+    "bytes": 601134,
+    "sha256": "ae604ac443ef29bfd3cac5d48e1b0db058c45a9194807a7c4e900cf897893852",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-mobile.jpg",
+    "section": "sidekick",
+    "role": "fallbackImageMobile",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Sidekick_2x_ae10922b-27e9-4a86-ac5d-24de7957ea02.jpg?v=1765257456",
+    "path": "/assets/sidekick-mobile.jpg",
+    "bytes": 202357,
+    "sha256": "eba4e4df0342ad10aed1aa59fc0a0e9d87c12ea25e8ef81a9891f12df116cd5b",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-desktop.ktx2",
+    "section": "sidekick",
+    "role": "fallbackImageOptimized",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Sidekick_desktop.ktx2?v=1787919785",
+    "path": "/assets/sidekick-desktop.ktx2",
+    "bytes": 219826,
+    "sha256": "d409777f83f3cf688d594e30a1779ababf3ca975ea019f6b29a1fabbd05dcb5e",
+    "status": "KTX2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-mobile.ktx2",
+    "section": "sidekick",
+    "role": "fallbackImageMobileOptimized",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Sidekick_2x.ktx2?v=1787919788",
+    "path": "/assets/sidekick-mobile.ktx2",
+    "bytes": 150645,
+    "sha256": "fc02dc90c01bdce5814bde08762dd268a1841cae9b6c64a1682db0ca366df012",
+    "status": "KTX2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-model.glb",
+    "section": "sidekick",
+    "role": "backgroundAssets",
+    "sourceUrl": "https://editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/63ac5b514230f82a/EW26_Sidekick_251208_compressed-optimized.glb",
+    "path": "/assets/sidekick-model.glb",
+    "bytes": 499776,
+    "sha256": "662cdea6238f602436c32fd50c6e9561c8332864da88d381f6b1e98df524b503",
+    "status": "GLB header and JSON parsed",
+    "rights": "Shopify reference asset; research use, publication rights not established",
+    "nodes": 7,
+    "extensions": [
+      "KHR_draco_mesh_compression",
+      "KHR_texture_basisu"
+    ]
+  },
+  {
+    "id": "sidekick-background.ktx2",
+    "section": "sidekick",
+    "role": "backgroundAssets",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/EW26_Sidekick_bg_stars-optimized_89d84022-03c9-4267-bb0f-71a26f688511.ktx2?v=1787919997",
+    "path": "/assets/sidekick-background.ktx2",
+    "bytes": 195607,
+    "sha256": "936d014e9e91bea417b2c460502f3e775206f0210a4211f06cc357c84504f8c2",
+    "status": "KTX2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "pulse-desktop.webp",
+    "section": "paper",
+    "role": "poster",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-pulseDesktopPoster-desktop.webp?v=1765345989",
+    "path": "/assets/pulse-desktop.webp",
+    "bytes": 994495,
+    "sha256": "f39e0baf541f12312b950ee96b00423289804d7947a4f066e1db12f3e5c753e5",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "pulse.riv",
+    "section": "paper",
+    "role": "rive",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/pulse_12_10.riv?v=1787919821",
+    "path": "/assets/pulse.riv",
+    "bytes": 141831,
+    "sha256": "be902d638f5cfe0b4a2b1942657100dddabea1ccb63919cf4630a142a27c7428",
+    "status": "RIVE signature verified; runtime check pending",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-video-poster.png",
+    "section": "sidekick",
+    "role": "video-poster",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Sidekick_Preroll.00_00_00_00.Still002.png?v=1765318313",
+    "path": "/assets/sidekick-video-poster.png",
+    "bytes": 2315252,
+    "sha256": "7c37213e9466858bd14b77b2edc3ef684550fdf86ce45c3a3303560f9b0e7560",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "sidekick-intro.mp4",
+    "section": "sidekick",
+    "role": "video",
+    "sourceUrl": "https://editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/620a0d8735da4d97b040b1cd98693898/620a0d8735da4d97b040b1cd98693898.HD-720p-1.6Mbps-64843815.mp4",
+    "path": "/assets/sidekick-intro.mp4",
+    "bytes": 1422831,
+    "sha256": "90ba75019ac7d2633e8c27015b98d0a743630ba0ca381a55fdfe08ebe5fe8ff8",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "neue-montreal.woff2",
+    "section": "all",
+    "role": "font",
+    "sourceUrl": "https://cdn.shopify.com/b/shopify-brochure2-assets/3ee238256136fcfdfca35decbd44d0d4.woff2",
+    "path": "/assets/neue-montreal.woff2",
+    "bytes": 24792,
+    "sha256": "5904b1b055387fa028fb281ddb784bf5e3280b4f183b722518bc5b979ddbbd6c",
+    "status": "WOFF2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "hw-cigars.woff2",
+    "section": "all",
+    "role": "font",
+    "sourceUrl": "https://cdn.shopify.com/b/shopify-brochure2-assets/49a57a6e59f6a50f0627418abeb58fec.woff2",
+    "path": "/assets/hw-cigars.woff2",
+    "bytes": 30440,
+    "sha256": "2d422f232ac308d9145692e1bcb2c2ce4001c94a0bcfc4f266429a75529971ba",
+    "status": "WOFF2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "imperial-script.woff2",
+    "section": "all",
+    "role": "font",
+    "sourceUrl": "https://cdn.shopify.com/b/shopify-brochure2-assets/389d4f8566b3b9cbe083b682c7fabf06.woff2",
+    "path": "/assets/imperial-script.woff2",
+    "bytes": 15572,
+    "sha256": "a134619d95955fb4e38d30bb2736374640bce55340a0d3c7b576c27ae212e6bc",
+    "status": "WOFF2 signature verified",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  },
+  {
+    "id": "mud-normal.webp",
+    "section": "transition",
+    "role": "normal",
+    "sourceUrl": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/mud_normal.webp?v=1762463320",
+    "path": "/assets/mud-normal.webp",
+    "bytes": 100285,
+    "sha256": "8780cb023bc028bde774e77b8e0f552cfb3e6ddbcf827de8c7a84c7b47912fea",
+    "status": "downloaded",
+    "rights": "Shopify reference asset; research use, publication rights not established"
+  }
+]
