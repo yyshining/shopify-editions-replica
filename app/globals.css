@@ -18,3 +18,5 @@ body{isolation:isolate}.rive-layer{position:absolute;inset:0}[data-capture=true]
 .hero h1 em,.edition-small em{font-synthesis:style}
 
 .paper::before{height:85px;top:-64px;clip-path:none;background:var(--paper);mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1280 100' preserveAspectRatio='none'%3E%3Cfilter id='rough'%3E%3CfeTurbulence baseFrequency='.045 .3' numOctaves='3' seed='12'/%3E%3CfeDisplacementMap in='SourceGraphic' scale='10'/%3E%3C/filter%3E%3Cpath d='M-10 35 Q65 5 130 30 T260 28 T390 18 T520 27 T650 38 T780 62 T910 55 T1040 67 T1170 47 T1290 62 V110 H-10Z' fill='white' filter='url(%23rough)'/%3E%3C/svg%3E");mask-size:100% 100%}
+/* Keep every rail line readable while the paper edge crosses the viewport. */
+.side-rail{mix-blend-mode:difference;color:var(--light)!important}
