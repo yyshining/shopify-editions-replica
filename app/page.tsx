@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useRef, useState, lazy, Suspense } from 'react';
 import Lenis from 'lenis';
+import AppCloud from '../components/replica/AppCloud';
 import Diagnostics from '../components/replica/Diagnostics';
 import { ArrowUpRight, Search, Menu, X, Play, ChevronDown, ArrowDown } from 'lucide-react';
 import { getMotion, type MotionState } from '../lib/motion';
@@ -65,6 +66,7 @@ export default function Home(){
    <section id="insights" className="paper">
     <div className="paper-body"><h2 className="narrative dropcap">Insights, proactively delivered</h2><div className="insight-copy"><h3>Smart suggestions</h3><p>Sidekick Pulse delivers personalized recommendations and next steps for your business using market trends and data from your store.</p><a className="help" href="https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance#pulse" target="_blank" rel="noreferrer">Read help doc <ArrowUpRight size={12}/></a></div>
     <Suspense fallback={<div className="pulse"><img src="/assets/pulse-desktop.webp" alt="Sidekick Pulse recommendations"/></div>}><Pulse/></Suspense>
+    <AppCloud/>
     <div className="sample-end"><a href={original+'#sidekick'}>Explore more Sidekick updates <ArrowUpRight size={16}/></a><button onClick={top}>Back to navigation <ArrowUpRight size={16}/></button></div></div>
    </section>
   </main>

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "/assets/apps/background.png",
+    "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/apps-bg-image.png?v=1763934791",
+    "bytes": 144563,
+    "sha256": "77b4af4bd124d415851b4fb96a5340a406b748a38ee92743383ecbc93454bbe0"
+  },
+  {
+    "file": "/assets/apps/glow.png",
+    "url": "https://cdn.shopify.com/s/files/1/0951/3130/4218/files/Rectangle_240654805.png?v=1763642972",
+    "bytes": 296681,
+    "sha256": "85d51dcc09c10550e707e7fceb54f66477b43201d175af3c893117a39bb7b785"
+  },
+  {
+    "file": "/assets/apps/icon.mp4",
+    "url": "https://cdn.shopify.com/videos/c/o/v/b201bb23d69f4a748de0ad9a500f4d4c.mp4",
+    "bytes": 873628,
+    "sha256": "df7751cd40722e9f991c50bbf4e28de03521e1adf8c1ef9251da5e2c0e3383d6"
+  }
+]
